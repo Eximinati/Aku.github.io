@@ -1,0 +1,26 @@
+input:hover {
+    color: aqua;
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue; /* Blue background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 8px 10px; /* Some padding */
+    font-size: 10px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+}
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: RoyalBlue;
+}
+.eternity{
+    height: 42px; 
+    width: 40%; 
+    
+}
